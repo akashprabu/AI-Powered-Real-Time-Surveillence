@@ -1,2 +1,2 @@
-# AI-Powered-Real-Time-Surveillence
+# Smart-Real-Time-Surveillence
 IoT, Cloud and AI
